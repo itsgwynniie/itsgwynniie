@@ -1,8 +1,8 @@
-## Hi, I'm Gwyneth 👋
+# <p align=center> Hi, I'm Gwyneth 👋
 
-# A junior software engineer from Ecuador
+### <p align=center> A junior software engineer from Ecuador
 
-- 🌱 I’m currently learning JavaScript and Java.
+- 🌱 I’m currently learning **JavaScript and Java.**
 
 <!--
 **itsgwynniie/itsgwynniie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
